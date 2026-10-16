@@ -20,7 +20,7 @@
 {
  "title": "сделать лабу",
  "priority": "высокий",
- "deadline": "2025-11-01",
+ "deadline": "2026-11-01",
  "done": false,
- "created_at": "2025-10-17T12:00:00"
+ "created_at": "2026-10-17T12:00:00"
 }
